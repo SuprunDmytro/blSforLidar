@@ -35,4 +35,5 @@ int main(){
 	root->word = 0;
 	child = root;
 	
+	// delete child, close file
 }
