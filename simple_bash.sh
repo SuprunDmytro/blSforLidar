@@ -9,6 +9,10 @@ EOF
 sleep 100
 bluetoothctl << EOF
 scan off
-quit
 EOF
+# run that c file, connect to the bluetooth device...
+while true:
+do
+	# refresh connection : try connecting again, or smth
+done
 
