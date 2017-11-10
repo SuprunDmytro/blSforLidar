@@ -1,10 +1,1 @@
- [bluetooth]# [0;94m[bluetooth][0m# [K[[0;92mNEW[0m] Controller 88:53:2E:6E:FD:C9 ubuntu-0 [default]
-[0;94m[bluetooth][0m# [K[[0;92mNEW[0m] Device 40:88:05:BB:AE:D2 XT 1585
-[0;94m[bluetooth][0m# [K[[0;92mNEW[0m] Device 44:80:EB:A2:BB:41 XT1254
-[0;94m[bluetooth][0m# [K[[0;92mNEW[0m] Device BC:14:85:CB:F6:AE [TV] UN48J6300
-[0;94m[bluetooth][0m# [K[[0;92mNEW[0m] Device 90:7F:61:14:9D:38 Samsung Bluetooth Keyboard BKB-10
-[0;94m[bluetooth][0m# [K[[0;92mNEW[0m] Device 00:1A:7D:FD:C1:78 Jogger
-[0;94m[bluetooth][0m# [K[[0;92mNEW[0m] Device 00:14:BE:05:1A:DC LC-8600
-[0;94m[bluetooth][0m# scan on
-[0;94m[bluetooth][0m# [K[[0;91mDEL[0m] Controller 88:53:2E:6E:FD:C9 ubuntu-0 [default]
-[0;94m[bluetooth][0m# [0;94m[bluetooth][0m# [bluetooth]# [K
+[bluetooth]# [0;94m[bluetooth][0m# [K[[0;92mNEW[0m] Controller 88:53:2E:6E:FD:C9 ubuntu-0 [default][0;94m[bluetooth][0m# [K[[0;92mNEW[0m] Device 40:88:05:BB:AE:D2 XT 1585[0;94m[bluetooth][0m# [K[[0;92mNEW[0m] Device 44:80:EB:A2:BB:41 XT1254[0;94m[bluetooth][0m# [K[[0;92mNEW[0m] Device BC:14:85:CB:F6:AE [TV] UN48J6300[0;94m[bluetooth][0m# [K[[0;92mNEW[0m] Device 90:7F:61:14:9D:38 Samsung Bluetooth Keyboard BKB-10[0;94m[bluetooth][0m# [K[[0;92mNEW[0m] Device 00:1A:7D:FD:C1:78 Jogger[0;94m[bluetooth][0m# [K[[0;92mNEW[0m] Device 00:14:BE:05:1A:DC LC-8600[K[[0;92mNEW[0m] Device 00:14:BE:05:1A:DC VR BOX[0;94m[bluetooth][0m# scan on[0;94m[bluetooth][0m# [K[[0;91mDEL[0m] Controller 88:53:2E:6E:FD:C9 ubuntu-0 [default][0;94m[bluetooth][0m# [0;94m[bluetooth][0m# [bluetooth]# [K
