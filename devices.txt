@@ -1,5 +1,16 @@
+
+scan on
 Waiting to connect to bluetoothd...[0;94m[bluetooth][0m# [K[[0;92mNEW[0m] Controller B8:27:EB:2F:22:37 raspberrypi [default]
+[0;94m[bluetooth][0m# [K[[0;92mNEW[0m] Device A4:34:D9:AB:80:50 DESKTOP-PBSGMG8
+[0;94m[bluetooth][0m# [K[[0;92mNEW[0m] Device 1C:1A:C0:71:10:B0 1C-1A-C0-71-10-B0
+[0;94m[bluetooth][0m# [K[[0;92mNEW[0m] Device FF:FF:90:01:3B:B8 VR BOX
 [0;94m[bluetooth][0m# scan on
+[0;94m[bluetooth][0m# [KDiscovery started
+[0;94m[bluetooth][0m# [K[[0;93mCHG[0m] Controller B8:27:EB:2F:22:37 Discovering: yes
+[0;94m[bluetooth][0m# [K[[0;93mCHG[0m] Device FF:FF:90:01:3B:B8 RSSI: -46
+[0;94m[bluetooth][0m# [K[[0;93mCHG[0m] Device FF:FF:90:01:3B:B8 RSSI: -30
+[0;94m[bluetooth][0m# [K[[0;93mCHG[0m] Device FF:FF:90:01:3B:B8 RSSI: -48
+[0;94m[bluetooth][0m# scan off
 [0;94m[bluetooth][0m# quit
 [0;94m[bluetooth][0m# [K[[0;91mDEL[0m] Controller B8:27:EB:2F:22:37 raspberrypi [default]
 [0;94m[bluetooth][0m# Waiting to connect to bluetoothd...[K

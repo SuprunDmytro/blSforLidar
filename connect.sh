@@ -7,7 +7,7 @@ EOF
 while true
 do
 	sleep 120
-	bluetooth << EOF
+	bluetoothctl << EOF
 	connect $1
 EOF
 done

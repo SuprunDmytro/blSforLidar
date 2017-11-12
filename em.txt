@@ -1,3 +1,0 @@
-Waiting to connect to bluetoothd...[0;94m[bluetooth][0m# [K[[0;92mNEW[0m] Controller B8:27:EB:2F:22:37 raspberrypi [default]
-[0;94m[bluetooth][0m# 
-[0;94m[bluetooth][0m# 

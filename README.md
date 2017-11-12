@@ -1,4 +1,8 @@
 # blSforLidar
 read output from bluetoothctl, look for "VR BOX", connect to corresponding UUID
-can be implemented in a much simpler way;
-linked lists are used as an exercise, even though this approach is inneficient
+devices.txt -> save output from bluetoothctl scan
+doubledash.exp -> scan
+connect.sh -> connection to UUID (from devices.txt)
+starting.sh 0> (attempting) to run everything:
+	- ambigious redirect error
+

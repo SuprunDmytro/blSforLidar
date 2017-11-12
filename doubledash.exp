@@ -1,0 +1,11 @@
+#!/usr/bin/expect
+
+log_user 0
+log_file "devices.txt"
+spawn bluetoothctl
+send -- "scan on\n"
+sleep 20
+send -- "scan off\n"
+send -- "quit\n"
+#spawn bash "almost.sh 'devices.txt'"
+interact

@@ -1,5 +1,5 @@
 #!bin/bash
-mapfile < $1
+mapfile < "devices.txt"
 k=0
 declare -a ARR
 ARR=()
