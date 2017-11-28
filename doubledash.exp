@@ -1,5 +1,6 @@
 #!/usr/bin/expect
-
+# need to use "expect" because sleep otherwise doesn't work, scan is not working otherwise either
+#TODO: clear file before writing new scan output
 log_user 0
 log_file "devices.txt"
 spawn bluetoothctl

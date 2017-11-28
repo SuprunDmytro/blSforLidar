@@ -1,4 +1,5 @@
 #!/bin/bash
+# $1 is the UUID of the bluetooth device
 bluetoothctl << EOF
 scan off
 trust $1
